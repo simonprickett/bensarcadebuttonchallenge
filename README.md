@@ -17,3 +17,5 @@ The code's still pretty rough and ready, but it's functional!
 I hosted a copy here (use keys 1 and 2 in lieu of the arcade buttons we're using):
 
 http://codepen.io/simonprickett/pen/YPGrbe
+
+I also added some [animate.css](http://daneden.github.io/animate.css/) goodness.

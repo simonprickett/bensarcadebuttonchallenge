@@ -15,11 +15,11 @@ var basicGame = {
 		if (e.keyCode == 49) {
 			basicGame.player1Pos += 1;
 			elemToUpdate = document.getElementById('player1-' + basicGame.player1Pos);
-			elemToUpdate.className += ' player1Pressed ';
+			elemToUpdate.className += ' player1Pressed animated rubberBand';
 		} else if (e.keyCode == 50) {
 			basicGame.player2Pos += 1;
 			elemToUpdate = document.getElementById('player2-' + basicGame.player2Pos);
-			elemToUpdate.className += ' player2Pressed ';
+			elemToUpdate.className += ' player2Pressed animated rubberBand';
 		}
 
 		// Did anybody win?
