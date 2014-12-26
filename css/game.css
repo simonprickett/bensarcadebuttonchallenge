@@ -1,0 +1,36 @@
+#player1 {
+	background-color: #CCCCCC;
+	width: 450px;
+	height: 480px;
+	position: absolute;
+	float: left;
+	padding: 10px;
+}
+
+#player2 {
+	background-color: #CCCCCC;
+	width: 450px;
+	height: 480px;
+	margin-left: 500px;
+	padding: 10px;
+	position: absolute;
+}
+
+.meterElement {
+	font-size: 2.0em;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+	margin-top: 2px;
+	border-radius: 5px;
+}
+
+.player1Pressed {
+	color: #FFFFFF;
+	background-color: #00FF00;
+}
+
+.player2Pressed {
+	color: #FFFFFF;
+	background-color: #FF0000;
+}
