@@ -13,3 +13,7 @@ Ben made some videos throughout the process:
 * Stage 4: https://www.youtube.com/watch?v=uuW-ze8U67I
 
 The code's still pretty rough and ready, but it's functional!
+
+I hosted a copy here (use keys 1 and 2 in lieu of the arcade buttons we're using):
+
+http://codepen.io/simonprickett/pen/YPGrbe
