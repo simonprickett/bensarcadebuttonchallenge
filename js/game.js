@@ -1,4 +1,3 @@
-// TODO
 var basicGame = {
 	player1Pos: 0,
 	player2Pos: 0,
