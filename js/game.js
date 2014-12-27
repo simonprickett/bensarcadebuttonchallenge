@@ -11,6 +11,9 @@ var basicGame = {
 			document.getElementById('player2-' + n).className = 'meterElement';
 		}
 
+		document.getElementById('player1').className = '';
+		document.getElementById('player2').className = '';
+
 		basicGame.player1Pos = 0;
 		basicGame.player2Pos = 0;
 		window.onkeypress = basicGame.buttonPressed;
