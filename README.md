@@ -11,6 +11,7 @@ Ben made some videos throughout the process:
 * Stage 2: https://www.youtube.com/watch?v=QQwKmig882I
 * Stage 3: https://www.youtube.com/watch?v=WQJW1GmTgk0
 * Stage 4: https://www.youtube.com/watch?v=uuW-ze8U67I
+* Stage 5: https://www.youtube.com/watch?v=USdqAjKv9g0
 
 The code's still pretty rough and ready, but it's functional!
 
@@ -18,4 +19,4 @@ I hosted a copy here (use keys 1 and 2 in lieu of the arcade buttons we're using
 
 http://codepen.io/simonprickett/pen/YPGrbe
 
-I also added some [animate.css](http://daneden.github.io/animate.css/) goodness.
+This uses some [animate.css](http://daneden.github.io/animate.css/) goodness.
