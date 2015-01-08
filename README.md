@@ -12,6 +12,7 @@ Ben made some videos throughout the process:
 * Stage 3: https://www.youtube.com/watch?v=WQJW1GmTgk0
 * Stage 4: https://www.youtube.com/watch?v=uuW-ze8U67I
 * Stage 5: https://www.youtube.com/watch?v=USdqAjKv9g0
+* Stage 6: https://www.youtube.com/watch?v=sUzdZciXW98
 
 The code's still pretty rough and ready, but it's functional!
 
