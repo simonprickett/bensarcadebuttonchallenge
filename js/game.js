@@ -21,8 +21,8 @@ var basicGame = {
 	},
 
 	buttonPressed: function(e) {
-		// 49 = Green button, player 1
-		// 50 = Red button, player 2
+		// 49 = Green button, or keyboard "1", player 1
+		// 50 = Red button, or keyboard "2", player 2
 		var elemToUpdate = undefined;
 
 		if (e.keyCode == 49) {
